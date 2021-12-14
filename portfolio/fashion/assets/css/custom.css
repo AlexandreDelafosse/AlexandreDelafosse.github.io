@@ -136,3 +136,33 @@
 /* Global font */
 body { font-family: var(--global-font) }
 
+.theme-one { background-color: var(--ontrend-500) }
+.theme-one h2 { color: var(--white-000) } 
+.theme-one h3 { color: var(--white-000) } 
+.theme-one .upper-label { color: var(--white-000) }
+.theme-one p { color: var(--white-000) }
+.theme-one li { color: var(--white-000) }
+.theme-one a:not(.btn):link { color: var(--gray-400) }
+.theme-one a:not(.btn):visited { color: var(--gray-400) }
+.theme-one a:not(.btn):focus { color: var(--ontrend-500) }
+.theme-one a:not(.btn):hover { color: var(--ontrend-500) } 
+.theme-one a:not(.btn):active { color: var(--ontrend-500) }
+.theme-one a:not(.btn):focus { background-color: var(--gray-100) } 
+.theme-one a:not(.btn):hover { background-color: var(--gray-100) }
+.theme-one a:not(.btn):active { background-color: var(--gray-100) }
+
+.theme-one { background-color: var(--ontrend-500) }
+.theme-one h2 { color: var(--white-000) } 
+.theme-one h3 { color: var(--white-000) } 
+.theme-one .upper-label { color: var(--white-000) }
+.theme-one p { color: var(--white-000) }
+.theme-one li { color: var(--white-000) }
+.theme-one a:not(.btn):link { color: var(--gray-400) }
+.theme-one a:not(.btn):visited { color: var(--gray-400) }
+.theme-one a:not(.btn):focus { color: var(--ontrend-500) }
+.theme-one a:not(.btn):hover { color: var(--ontrend-500) } 
+.theme-one a:not(.btn):active { color: var(--ontrend-500) }
+.theme-one a:not(.btn):focus { background-color: var(--gray-100) } 
+.theme-one a:not(.btn):hover { background-color: var(--gray-100) }
+.theme-one a:not(.btn):active { background-color: var(--gray-100) }
+.theme-two { background-color: var(--gray-300) }
