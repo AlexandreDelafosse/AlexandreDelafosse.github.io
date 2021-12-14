@@ -166,3 +166,11 @@ body { font-family: var(--global-font) }
 .theme-one a:not(.btn):hover { background-color: var(--gray-100) }
 .theme-one a:not(.btn):active { background-color: var(--gray-100) }
 .theme-two { background-color: var(--gray-300) }
+
+.theme-four { background-color: var(--ontrend-500) }
+.theme-four .col-1 h2 { color: var(--white-000) }
+.theme-four .col-1 h3 { color: var(--green-100) }
+.theme-four .col-4 h3 { color: var(--white-000) }
+.theme-four .col-4 p { color: var(--white-000) }
+.theme-four .col-4 li { color: var(--white-000) }
+.theme-four .col-4 figure.icon { color: var(--white-000) }
